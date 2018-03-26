@@ -8,3 +8,5 @@ This is some pointless text that is just a space-filler. It is indeed just a spa
 ## My First Experience Forking
 
 So, to be frank, I think forks are the least useful of the three types of cutlery. I would say that spoons are the most useful, at least if you're only allowed to choose a single cutlery hand implement. As in, you can't do much with only a knife. But a knife is super important too because you can't cut anything without a knife. I would only consider using a fork if I already had a spoon and a knife. I still think that chopsticks trump the rest.
+
+Also, there seems to be a merge option called --no-ff which lets you see in the logs how I forked it and merged it, as opposed to just flattening it. I think I like that option, so I'll just add it.
